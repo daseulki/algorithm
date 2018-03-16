@@ -14,7 +14,7 @@ public class Run implements Comparable<Run>{
   }
 }
 public class HuffmanEncoder{
-  
+
 }
 public class HuffmanCoding {
   private ArrayList<Run> runs = new ArrayList<Run>();
